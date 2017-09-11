@@ -2,7 +2,7 @@
 
  Local Weather Web App project from Free Code Camp
  
-[_Link to Codepen_](https://codepen.io/dgray0229/pen/OjdeQb)
+[_Link to My Codepen Project_](https://codepen.io/dgray0229/pen/OjdeQb)
 
 * Objective: Build a CodePen.io app that is functionally similar to this: http://codepen.io/FreeCodeCamp/full/bELRjV.
 
